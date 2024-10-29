@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/canyon-trail/js-devops-demo#readme",
   "dependencies": {
-    "@babel/cli": "^7.8.4",
+    "@babel/cli": "^7.25.9",
     "@babel/core": "^7.8.4",
     "@babel/preset-env": "^7.8.4",
     "@babel/register": "^7.8.3",
